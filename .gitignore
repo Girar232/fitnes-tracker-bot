@@ -18,3 +18,4 @@ data/*.csv
 # Telegram bot token
 config.py
 *.token
+.env
