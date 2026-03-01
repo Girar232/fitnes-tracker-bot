@@ -1,0 +1,20 @@
+# Byte-compiled / optimazed
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
+.venv/
+.env/
+
+# IDE
+.idea/
+.vscode/
+
+# Data files
+data/*.csv
+
+# Telegram bot token
+config.py
+*.token
